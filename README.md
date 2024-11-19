@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishranjan9585](https://github.com/ashishranjan9585)
 
-- 💬 Ask me about **Java, JavaScript, React.js**
+- 💬 Ask me about **Java, JavaScript, React.js , Node.js , SQL**
 
 - 📫 How to reach me **ashishsingh829585@gmail.com**
 
