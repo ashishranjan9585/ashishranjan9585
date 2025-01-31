@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ashish Ranjan</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
+<h3 align="center">Passionate MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishranjan9585&label=Profile%20views&color=0e75b6&style=flat" alt="ashishranjan9585" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishranjan9585](https://github.com/ashishranjan9585)
 
-- 💬 Ask me about **Java, JavaScript, React.js , Node.js , SQL**
+- 💬 Ask me about **Java, JavaScript, React.js , Node.js , SQL , MONGODB , AWS , DOCKER , Express.js **
 
 - 📫 How to reach me **ashishsingh829585@gmail.com**
 
